@@ -67,8 +67,9 @@ A stack utilizada para criar o MoveIt está em constante atualização. Até o p
 
 ## :camera: Tela Principal
 
+
 <p align="center">
-  <img src="public/moveit-telap.png" alt="Logo moveit"/>
+  <img src="public/moveittela.png" alt="Logo moveit"/>
 </p>
 ---
 
