@@ -11,6 +11,8 @@
 <a href="#rocket-execução">Execução</a>
 |
 <a href="#cyclone-deploy">Deploy</a>
+|
+<a href="#camera-tela-principal">Tela Principal</a>
 </p>
 
 ## :books: Descrição do Projeto
@@ -63,6 +65,11 @@ A stack utilizada para criar o MoveIt está em constante atualização. Até o p
     https://moveit-nlw4-luqiborges.vercel.app/
 ```
 
+## :camera: Tela Principal
+
+<p align="center">
+  <img src="public/moveit-telap.png" alt="Logo moveit"/>
+</p>
 ---
 
 > O MoveIt foi construído durante a Next Level Week #04, promovida pela Rocketseat em 2021.
