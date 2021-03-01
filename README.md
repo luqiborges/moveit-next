@@ -10,7 +10,10 @@
 </p>
 
 ## :books: Descrição do Projeto
-<p align="center">O MoveIt se consiste em um sistema de interface interativa com o usuário, que visa ampliar a produtividade e a disciplina em um contexto de produção pessoal, unindo práticas saudáveis durante ciclos de trabalho.</p>
+
+  O MoveIt se consiste em um sistema de interface interativa com o usuário, que visa ampliar a produtividade e a disciplina em um contexto de produção pessoal, unindo práticas saudáveis durante ciclos de trabalho.
+  
+  Nesse sentido, a aplicação fornece mecanismos de intervalos de trabalho que, ao terminados, sugerem ao usuário exercícios simples para o corpo e olhos, evitando lesões e dores futuras, concedendo ao usuário experiências (XP) em função da conclusão dos exercícios, fazendo com que o mesmo suba de nível ao decorrer dos ciclos.
 
 ## :computer: Tecnologias
 
