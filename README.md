@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo-full.svg" alt="Logo moveit"/>
+  <img src="favicon.png" alt="Logo moveit"/>
 </p>
 
 <h1 align="center">MoveIt - NLW #04</h1>
