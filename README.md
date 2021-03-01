@@ -1,6 +1,61 @@
-<img src=”logo-ful.svg”>
+<h1 align="center">MoveIt - NLW #04</h1>
+<p align="center">
+<a href="#books-descrição-do-projeto">Descrição do Projeto</a>
+|
+<a href="#computer-tecnologias">Tecnologias</a>
+|
+<a href="#rocket-execução">Execução</a>
+|
+<a href="#cyclone-deploy">Deploy</a>
+</p>
 
-# MoveIt - NLW #04
+## :books: Descrição do Projeto
+<p align="center">O MoveIt se consiste em um sistema de interface interativa com o usuário, que visa ampliar a produtividade e a disciplina em um contexto de produção pessoal, unindo práticas saudáveis durante ciclos de trabalho.</p>
 
-## Descrição do Projeto
-<p align="center">O MoveIt se consiste em um sistema de interface interativa com o usuário, construído durante a "NextLevelWeek#04", promovida pela Rocketseat, que visa ampliar a produtividade e a disciplina em um contexto de produção pessoal, unindo práticas saudáveis durante ciclos de trabalho.</p>
+## :computer: Tecnologias
+
+A stack utilizada para criar o MoveIt está em constante atualização. Até o presente momento, as seguintes tecnologias foram escolhidas:
+
+- React.JS
+- Next.JS
+- TypeScript
+- HTML 5, CSS 3
+
+## :rocket: Execução
+
+- ### **Pré-requisitos**
+
+  - É necessário ter instalado em sua máquina o **[Node.js](https://nodejs.org/en/)**. A versão **12.19.0** é recomendada.
+  - É necessário a instalação das bibliotecas **[React.js](https://pt-br.reactjs.org/)** e **[Next.js](https://nextjs.org/)**, nas versões mais recentes.
+  - É **necessário** ter o **[Git](https://git-scm.com/)** (v2.29.0 for Windows) instalado e configurado no computador.
+  - Para a configuração e instalação usaremos um gerenciador de pacotes. Recomendamos o uso do **[Yarn](https://yarnpkg.com/)** (v1.22.5).
+
+1. Clone o repositório
+
+```sh
+  $ git clone https://github.com/luqiborges/moveit-next.git
+```
+
+2. Execute a aplicação (na ordem a seguir)
+
+```sh
+  $ cd moveit-next
+  $ yarn
+  $ yarn dev
+```
+
+3. Abra o navegador e acesse a aplicação em:
+```sh
+  localhost:3000
+```
+
+## :cyclone: Deploy
+
+  O deploy da aplicação foi realizado através da plataforma **[Vercel](https://vercel.com)**, permitindo acesso à aplicação através do endereço:
+  ```sh
+    https://moveit-nlw4-luqiborges.vercel.app/
+```
+
+---
+
+> O MoveIt foi construído durante a Next Level Week #04, promovida pela Rocketseat em 2021.
