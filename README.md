@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo-full.svg" alt="Logo moveit"/>
+</p>
+
 <h1 align="center">MoveIt - NLW #04</h1>
 <p align="center">
 <a href="#books-descrição-do-projeto">Descrição do Projeto</a>
